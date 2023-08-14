@@ -1,6 +1,6 @@
 # CRUD - PYTHON - JSON
 
-## MODELOS
+## MODELS
 * Computer
 * InputDevice
 * Keyboard
@@ -10,6 +10,13 @@
 * OutputDevice
 * Speaker
 
-## REPOSITORIOS
+## REPOSITORIES
 * ComputerRepository
 * DeviceRepository
+
+## CONTROLLERS
+* ComputerController
+* KeyboardController
+* MonitorController
+* MouseController
+* SpeakerController
