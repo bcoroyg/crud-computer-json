@@ -1,0 +1,22 @@
+[
+  {
+    "computers": [
+    ],
+    "input_devices": [
+      {
+        "mouses": [
+        ],
+        "keyboards": [
+        ]
+      }
+    ],
+    "output_devices": [
+      {
+        "monitors": [
+        ],
+        "speakers": [
+        ]
+      }
+    ]
+  }
+]

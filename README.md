@@ -9,3 +9,7 @@
 * Order
 * OutputDevice
 * Speaker
+
+## REPOSITORIOS
+* ComputerRepository
+* DeviceRepository
