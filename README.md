@@ -20,3 +20,10 @@
 * MonitorController
 * MouseController
 * SpeakerController
+
+# VIEWS
+* ComputerView
+* KeyboardView
+* MonitorView
+* MouseView
+* SpeakerView
