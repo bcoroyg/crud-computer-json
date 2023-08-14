@@ -1,21 +1,16 @@
 [
   {
-    "computers": [
-    ],
+    "computers": [],
     "input_devices": [
       {
-        "mouses": [
-        ],
-        "keyboards": [
-        ]
+        "mouses": [],
+        "keyboards": []
       }
     ],
     "output_devices": [
       {
-        "monitors": [
-        ],
-        "speakers": [
-        ]
+        "monitors": [],
+        "speakers": []
       }
     ]
   }

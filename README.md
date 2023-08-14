@@ -21,9 +21,14 @@
 * MouseController
 * SpeakerController
 
-# VIEWS
+## VIEWS
 * ComputerView
 * KeyboardView
 * MonitorView
 * MouseView
 * SpeakerView
+
+## START MAIN
+```
+python3 src/main.py
+```
